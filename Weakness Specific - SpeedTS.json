@@ -1,0 +1,51 @@
+{
+	"playlistName": "Weakness Specific - SpeedTS",
+	"playlistId": 199596,
+	"authorSteamId": "76561198332402772",
+	"authorName": "Bingus",
+	"scenarioList": [
+		{
+			"scenario_name": "Pokeball Auto ww6t Larger Voltaic",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "patTargetSwitch easy",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "patTargetSwitch 90 easy",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "patCircleSwitch NR",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "patTargetSwitch easy",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "voxTS Voltaic Easy",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "voxTS Viscose Varied",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "patCircleSwitch NR",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "patTargetSwitch 90 easy",
+			"play_Count": 4
+		}
+	],
+	"description": "29 min",
+	"hasOfflineScenarios": false,
+	"hasEdited": false,
+	"shareCode": "KovaaKsFlankingNastyImpact",
+	"version": 31,
+	"updated": 1698495738,
+	"isPrivate": false
+}
