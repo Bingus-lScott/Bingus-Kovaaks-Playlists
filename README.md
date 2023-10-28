@@ -6,6 +6,8 @@ Playlist Codes:
 Weakness Specific - Pasu: KovaaKsWinningChattyXur
 </br>
 Weakness Specific - (Arm) Smoothness: KovaaKsVibratingChattyCheater
+</br>
+Weakness Specific - SpeedTS: KovaaKsFlankingNastyImpact
 
 </br>
 
