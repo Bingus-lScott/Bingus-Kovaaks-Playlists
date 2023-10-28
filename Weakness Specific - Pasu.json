@@ -1,0 +1,35 @@
+{
+	"playlistName": "Weakness Specific - Pasu",
+	"playlistId": 198440,
+	"authorSteamId": "76561198332402768",
+	"authorName": "Bingus",
+	"scenarioList": [
+		{
+			"scenario_name": "1w4ts Voltaic",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "canTS Logic",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Tamspeed 2bpes",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "pasu small reload",
+			"play_Count": 7
+		},
+		{
+			"scenario_name": "Pasu Voltaic Small 3ShotR5",
+			"play_Count": 3
+		}
+	],
+	"description": "11 min a playlist to practice helpful scenarios for my pasu weakness",
+	"hasOfflineScenarios": false,
+	"hasEdited": false,
+	"shareCode": "KovaaKsWinningChattyXur",
+	"version": 31,
+	"updated": 1698195688,
+	"isPrivate": false
+}

@@ -1,0 +1,55 @@
+{
+	"playlistName": "Weakness Specific - Smoothness",
+	"playlistId": 198439,
+	"authorSteamId": "76561198332402768",
+	"authorName": "Bingus",
+	"scenarioList": [
+		{
+			"scenario_name": "Midrange Short Strafes Invincible Raspberry",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "Air AIO Angelic",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "PGTI Voltaic",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "PGTI Voltaic Easy",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Centering II 180 no strafes",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "centering I",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "Smoothsphere",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Controlsphere",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "tamTargetSwitch Smooth Hard",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "Smoothbot TS Voltaic Regen Hasin 20% Smaller",
+			"play_Count": 2
+		}
+	],
+	"description": "18 min: arm smoothness practice, focuses mostly on matching target velocity and precision",
+	"hasOfflineScenarios": false,
+	"hasEdited": false,
+	"shareCode": "KovaaKsVibratingChattyCheater",
+	"version": 31,
+	"updated": 1698177305,
+	"isPrivate": false
+}
