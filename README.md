@@ -8,7 +8,8 @@ Weakness Specific - Pasu: KovaaKsWinningChattyXur
 Weakness Specific - (Arm) Smoothness: KovaaKsVibratingChattyCheater
 </br>
 Weakness Specific - SpeedTS: KovaaKsFlankingNastyImpact
-
+</br>
+Weakness Specific - Static: KovaaKsRevolvingChattyTroll
 </br>
 
 Or Download and drag and drop the playlists into: 
