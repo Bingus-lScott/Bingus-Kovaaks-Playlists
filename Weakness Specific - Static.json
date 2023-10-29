@@ -1,0 +1,55 @@
+{
+	"playlistName": "Weakness Specific - Static",
+	"playlistId": 199930,
+	"authorSteamId": "76561198332402772",
+	"authorName": "Bingus",
+	"scenarioList": [
+		{
+			"scenario_name": "pasu small reload",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "Pokeball 1w4ts 30%",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Pokeball 1w4t shrink",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "RawMouseControl Reload",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Reflex Flick - Fair",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "1w4ts Voltaic",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "1wall6targets small NeverMiss",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Wide Wall 4 Targets Small",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "fuglaaPressure",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "5 Sphere Hipfire Small",
+			"play_Count": 3
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": false,
+	"hasEdited": false,
+	"shareCode": "KovaaKsRevolvingChattyTroll",
+	"version": 31,
+	"updated": 1698590541,
+	"isPrivate": false
+}
